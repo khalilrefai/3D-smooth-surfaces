@@ -1,4 +1,4 @@
-# Smooth surfaces of 3D mesh
+# Smoothing surfaces of 3D mesh
 ![screenshot](https://github.com/khalilrefai/3D-smooth-surfaces/blob/main/screenshot.PNG?raw=true)
 
 ## Overview
